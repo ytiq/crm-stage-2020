@@ -1,7 +1,7 @@
 first_plugin
 ============
 
-Plugin for working with Dependency API
+Sample Plugin for CRM-Stage 2020
 
 [![Version](https://img.shields.io/npm/v/first_plugin.svg)](https://npmjs.org/package/first_plugin)
 [![CircleCI](https://circleci.com/gh/develop/first_plugin/tree/master.svg?style=shield)](https://circleci.com/gh/develop/first_plugin/tree/master)
@@ -17,9 +17,6 @@ Plugin for working with Dependency API
 <!-- tocstop -->
 <!-- install -->
 <!-- usage -->
-This plugin is aimed at utilizing Dependency API.
-
-Currently it only supports building dependency graph of Apex classes.
 
 In order to run it requires [graphviz](https://graphviz.gitlab.io/download/)
 
